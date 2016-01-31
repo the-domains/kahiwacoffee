@@ -1,31 +1,31 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T17:17:55.112Z'
-dateModified: '2016-01-31T17:17:43.143Z'
-title: Mikä on Suorakauppa?
+datePublished: '2016-01-31T17:46:41.748Z'
+dateModified: '2016-01-31T17:46:39.103Z'
+title: SUORAKAUPPA
 author: []
+sourcePath: _posts/2016-01-31-mika-on-suorakauppa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-mika-on-suorakauppa.md
-published: true
 url: mika-on-suorakauppa/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6fd6531-615a-4573-a581-6f4196ef2819.png)
-
-# Mikä on Suorakauppa?
+# SUORAKAUPPA
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eeec5bb4-dd47-4b04-b72c-2818a54528b4.JPG)
+
+## Mikä on Suorakauppa?
 
 Suorakauppa on Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.
 
