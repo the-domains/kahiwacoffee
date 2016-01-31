@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Tervetuloa !]]></title>
         <description><![CDATA[Tervetuloa !]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kahiwacoffee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 17:18:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 17:19:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kahiwacoffee/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b76ebe9-65cc-4564-9913-5a11a46866fa.JPG">]]></description>
+            <link>https://thegrid.ai/kahiwacoffee/e28debbd-d988-4cf5-a8ca-62759137897e/index.html</link>
+            <guid isPermaLink="false">e28debbd-d988-4cf5-a8ca-62759137897e</guid>
+            <pubDate>Sun, 31 Jan 2016 17:19:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mikä on Suorakauppa?]]></title>
-            <description><![CDATA[<article><h1>Mikä on Suorakauppa?</h1><p>Suorakauppa on Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d643fde1e5c418426082ad0aaf1cde248d160e25.png"></article>]]></description>
-            <link>undefinedmika-on-suorakauppa/index.html</link>
+            <description><![CDATA[<article><h1>Mikä on Suorakauppa?</h1><p>Suorakauppa on Mieleni minun tekevi, aivoni ajattelevi lähteäni laulamahan, saa'ani sanelemahan, sukuvirttä suoltamahan, lajivirttä laulamahan. Sanat suussani sulavat, puhe'et putoelevat, kielelleni kerkiävät, hampahilleni hajoovat.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d661ba064c153a93c2f053a19a71fc2b5f3f49b9.png"></article>]]></description>
+            <link>https://thegrid.ai/kahiwacoffee/mika-on-suorakauppa/index.html</link>
             <guid isPermaLink="false">97eabf97-eab8-425c-b488-c6935607b4e2</guid>
             <pubDate>Sun, 31 Jan 2016 17:17:55 GMT</pubDate>
         </item>
