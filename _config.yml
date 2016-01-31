@@ -1,6 +1,6 @@
 name: Kahiwacoffee
 favicon: null
-layout_spectrum: 0.5615748486015946
+layout_spectrum: 0.91995
 typography_spectrum: 0.6470362541731447
 title: 'Tervetuloa !'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#2d2018'
+    - '#90c2d9'
+    - '#fefefe'
+    - '#48646b'
+    - '#a08b7f'
   brandStrength: 0
   lightness: 0.5
   saturation: 1
