@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T07:43:26.332Z'
-dateModified: '2016-02-01T07:40:02.929Z'
+datePublished: '2016-02-01T07:47:45.201Z'
+dateModified: '2016-02-01T07:47:41.655Z'
 title: TUOTTEEMME
 author: []
 sourcePath: _posts/2016-01-31-volkswagen.md
@@ -25,8 +25,6 @@ _type: Article
 # TUOTTEEMME
 
 ## Täältä löydät myymämme tuotteet.
-
-## 
 
 ## V\*\*UN HYVÄ KAHVI
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14f2ad8d6ddee1dc44be49ccf576c44490460c6d.jpg)
