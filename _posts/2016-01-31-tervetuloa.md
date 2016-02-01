@@ -4,22 +4,23 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-31T17:50:07.354Z'
-dateModified: '2016-01-31T17:49:58.732Z'
-title: 'TERVETULOA!'
+datePublished: '2016-02-01T07:43:18.743Z'
+dateModified: '2016-02-01T07:42:59.209Z'
+title: Kahiwa coffee
 author: []
+sourcePath: _posts/2016-01-31-tervetuloa.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-tervetuloa.md
-published: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b481f741-84a3-4a64-8864-be551cfcdaa1.JPG)
+# Kahiwa coffee
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/583332a5f5584fb526007efd8a9c4c1824d362b8.jpg)
