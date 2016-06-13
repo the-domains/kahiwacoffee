@@ -1,5 +1,8 @@
+name: Kahiwacoffee
+favicon: null
+layout_spectrum: 0.5708263
+typography_spectrum: 0.6470362541731447
 title: Tervetuloa !
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0
-  rhythmicContrast: 0.5
   brandColors:
     - '#2d2018'
     - '#90c2d9'
     - '#fefefe'
     - '#48646b'
     - '#a08b7f'
-  lightness: 0.125
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Kahiwacoffee
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.6470362541731447
-layout_spectrum: 0.5708263
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.5
+purpose: []
