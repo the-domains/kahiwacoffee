@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-31T17:37:01.645Z'
-dateModified: '2016-01-31T17:36:51.726Z'
+description: Minä Minänen
+datePublished: '2016-08-19T10:11:13.349Z'
+dateModified: '2016-08-19T10:11:12.953Z'
 title: OTA YHTEYTTÄ
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-01-31-ota-yhteytta.md
-published: true
+via: {}
+starred: false
 url: ota-yhteytta/index.html
 _type: Article
 
