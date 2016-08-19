@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: OTA YHTEYTTÄ
+    id: 2b64a7e8-c265-476a-9686-b509bfa132a3
+    type: content
 favicon: null
 collections:
   - index:
